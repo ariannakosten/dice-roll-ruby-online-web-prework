@@ -1,3 +1,2 @@
-def roll(num)
-  retun rand(1..6) 
+def roll(rand(1..6)) 
 end
