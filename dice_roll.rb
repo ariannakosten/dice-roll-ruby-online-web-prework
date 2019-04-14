@@ -1,3 +1,3 @@
-def roll(rand = (1..6))
-  return (rand)
+def roll(rand)
+  return rand(1..6)
 end
